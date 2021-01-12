@@ -1,3 +1,8 @@
+/* El project selector */
+.project {
+    margin-left: 20px;
+}
+
 /* applies to anything of class "example-class-selector" */
 .example-class-selector {
 	margin-top: 2em;
